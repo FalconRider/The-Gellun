@@ -1,0 +1,440 @@
+Words 8488 : Folio One Version One
+                                   THE
+			GELLUN
+	The Alternate Physics
+	of an Imaginary Universe	
+MY GUT feelings and personal thoughts on a TOE
+GUT: Grand Unified Theory . TOE: Theory of Everything -  Universe concepts  
+
+DRAFT: 22.v001 (This is an incomplete unedited badly spelt WIP document which will be released for friendly review and input)
+Paul J. Gitschner
+email paulgitschner@gmail.com   
+Kitchener, Ontario  CANADA
+--- Official Bucket List item ----
+
+
+SECTION A:
+Forward:
+Does a Goldfish know it's swimming in water? Would it care?
+Would it feel  the difference in  water pressure if you dropped a stone into its bowl. Would it feel the movement of another fish or the vibrations
+of  a noise beyond its universe? Does it know about radio?
+
+Second Forward:
+In the summer of 2022  the James Webb Space Telescope (JWST)
+reached its targeted Lagrange point  and began operations. One of the first 
+photos released to the public  showed us deep space thru its new eyes.
+That photo, the one  announce on television by the President of the United states, showed a mix of single stars and galaxies spinning at all angles and more or less spread out. No single master element to rule them all. To me it suggested an Order within a Chaos of Orders . An ultimate democracy. That photo inspired the writing of this paper. I’ll refer to it as THE Big Picture.
+ I think I get it ALL now.
+
+(I’m sure the photo is copyright so it is not included in this presentation. Google for it)
+
+
+DISCLAIMER
+This is an incomplete  work of fiction and not meant to be a formal scientific or academic paper. I'm neither a scientist nor an academic. I am a feral intellectual . I  have written fiction before. Even science fiction. And film. I’m a dollar baby director. But I’m usually ignored and thus feel safe and empowered to try this project.
+ The writer experience obviously didn’t result in a career nor business.  Oh well.  
+I’m old but still well and alive today  and deeply feel  I should earn my oxygen every day in respect of those past who could better have used the time. Like JFK, Stephen Jobs. Philip K. Dick, Edgar Allen Poe and many other short timers.
+I always enjoyed writing and creating things, but not all the presentation details. As such you may find this document a bit rough with spelling and grammar.   This is a working document  and may change as my thoughts evolve and develop. It is meant to be a tool rather than a product.
+So, now retired  and being a fool  with time on my hands I've decided to try to understand the current state of our knowledge of the  universe  at this point in my life. The WHOLE universe. All of it. I discovered while taking doing some MOOCS that I’d  found a lot of progress made ,  a lot of things I couldn't understand or just  agree with and a  lot of areas that were admitted even by the experts to still  not be understood.
+I've read somewhere that all theories are wrong but some are useful. 
+I offer a new methodology.
+A writing instructor I’d  once had ( with Hollywood credits (in end notes)) once taught that if I was having problems with knowing how to end a  work of fiction to fully write the ending, making it a known commodity and then think backwards of what plot points circumstances  and  events must have led me  there.
+So I decided to create my own fictional universe.  One where I think more things unexplained could be explained. Starting with a few basic framing concepts that I understand are solid and I think we could  all agree on I’ll try to make Order out of the state of the art now  know, aka the Chaos. A real Walt Disney like experience.  
+Then I’ll test it.
+I’ll evaluate a number of the open current specific issues that would support it. And check out the proofs of the accepted concepts that counter it. 
+I think the state of science now to be like someone being invited to a country wedding in wedding season and ending up in the wrong village despite following all the directions listing turns and crossings at rivers , train tracks, bridges, old oak trees and what not, still finding a wedding and only at the end of the ceremony discovering it’s the wrong couple. 
+ In such a fashion I think a lot of today’s physics and astronomy are half true and almost right, and at the end confuse when conflicts arise  with logic or observation.  Don’t hate me, I’m offering help. Physics I think is the proverbial pilot who’s flown into a box canyon. This could be the replay button.
+I think wrong turns may have been taken early and so no currently accepted model, from the “Standard “ particle model  to Newton’s laws to Einstein’s ideas will be accepted blindly here and untouched. I offer no math proofs. Just ideas. I think all the incomprehensible (to me) mathematics on all those blackboards or whiteboards is just made to make the results work and are contrived when no other explanations worked. Maths are made to fit the myths. Nobels passed out.
+My model is intended to   adjusted as I have success or failures. Maybe even discarded.  I will have fun and learn a lot in the process which makes it all worth while. This is a thought experiment only. No Tokomacks or linear accelerators were used. I’m sure these would be against my condo’s bylaws. There will be off topic and comedic asides thrown in just to make this as entertaining as possible.
+
+
+What are the stakes?
+Why am I spending the time and mental energy to do this?
+As a species we’ve come a long way in  our technology in just about  two  hundred years. In 1800 or so it was travel by wooden ship and canoe, war with muskets and canon ball, no electricity, gasoline, toilet paper, telephone fixed or mobile or any video games. I’m almost  seventy and have had to retrain my self at least every ten years or fall behind on how to provide myself with basic services.  I miss Blockbuster.
+Much of what’s come is due to new energy paradigms and  an understanding of materials and forces that were always there  since the beginning  of time.
+If I’d only looked ahead instead! I’ll do that now.
+I don’t  think we have  discovered everything yet?  We might even be wrong about some basics. More tinkering might lead to :
+New propulsion systems. 
+New methods of transportation .
+Even better heath and life prospects.
+New Entertainment and Recreational options.
+Fashion and media thingies.
+Computing without all that thermal heat generated. 
+Defense options  to fend off any attackers. -- unless they figure this stuff out first.
+
+
+Aw crap, let’s go for it. Imagine someone telling Benjamin Franklin who died in 1790 that over 100 people at a time could be transported in metal tubes at an altitude of  40, 000 feet thru the air  from Washington to London in about 8 hours.
+He’d say you were very imaginative. A mere two centuries  and we have Boeing doing it hundred of times everyday.
+So I suggest that LEVITATION , yes the hoverboard, its   secrets lie in the Gellun. Even ALCHEMY  might be possible, converting Gold to Etherium! Let alone harnessing the perpetual motion opportunities I will contend exist.
+And More:  Ignore my GellUn if you wish but I’m going to look for  things to build with these  premises and whatever would evolve from them. 
+This document will be open. I might add a formal license to the GitHub posting , which is where I’ll “publish “ it, just because some source credit would be appreciated for anything found truly original.  Fork it . Bootleg it . Adapt it. Come up with  bits and pieces that support my arguments or dispute them. The goal of all this, beyond my the personal  pure pleasure of  my rant, is to inspire the next rant.  Just try to add value. I will release this in lumps called folios(respect to William Shakespeare). More as I’m encouraged and progress.
+
+My Background - Recent
+I'm retired  and not just recently. (2010 ) I worked in accounting and computer systems where most things have a finite answer and  true balance after you seek and find  and correct any  error.   I initially never wanted to see either again. I painted. But I got bored after seven years of art classes and a few piano lessons. I didn’t even own a smart phone. I decided to catch up with computer science and tech progress with the great MOOC opportunities available now. I live in a tech town (Waterloo, Ontario, Canada) and hoped I might get an idea for a startup. 
+A list of relevant MOOC credits  will appear at the end(eventually). I  found that many times after some great quiz generating definitions and realms of fuzzy math there was an admission that there were large parts of the main topic that even the professors admitted they could not know with certainty. 
+Example 1: They're certain that the Universe is approximately 70 per cent Dark Energy, 25 percent Dark Matter and 5 percent other stuff. They only can explain  most of the 5 percent.
+Example 2: They're certain there are only four main Forces, but have problems explaining  Gravity. Heck, Gravity the one I’m most certain exists. I use gravity every day. Usually more than once.
+Rather than just be negative or give up  and greatufl for my time still here which I shouldn’t waste. I've decided to think deep and propose here my own  Theory of Everything - Grand Unified Theory - Universe concept  where maybe not all,  but more things fit, in my opinion. Some of these ideas are recasts of historical ideas enhanced, combined  or even  relabeled . 
+I'm going to create some specific branding  and vocabulary for my interpretation of what I believe is a unique and cosmically workable  approach. Then we can all try to kick the stuffing out of it. Maybe some of this will be useful.
+This could be the next “String Theory”. “String Theory Tour”.
+I suggest you don’t simply discard my concepts but apply for a research grants to 
+get a firm basis to discard my concepts. 
+It will be fun and keep me busy for a bit so no loss. It will help me learn the concepts as I try to fit them all together. I consider my self a modern day Don Quixote,  out there fighting these new windmills. Much bigger now.
+I’m a citizen physicist!
+I do know  my foolish goal  here is firstly not only to understand Einstein, but secondly to understand what he got wrong and thirdly to understand what the right answer is. No guts – no glory.
+Why I’m a Skeptic.
+It man not be in my nature to believe everything as it’s taught. I may think about offerings and see if it works for me due to an early experience. 
+Public school, second grade about eight years old. Just as they’re teaching handwriting, the cursive script type. I am declared a devil and sent to the principal’s office. I have  to demonstrate to this old guy, the Principal,    my sin of writing with my left hand. My parents are called and I’m given remedial homework lessons in writing the proper way , the only acceptable way,  with my right hand only. No other kid in that school  as far as I remember went thru this. I was so isolated but held my ground, with my left hand. They gave up. 
+This was in Canada in the early 1960’s. 
+
+
+This paper:
+A. Intro.
+B. The Model.  The Gellun Universe
+	SECTIONS: (as planned)
+	1:  The MEL and the Gell.  Setting the Playing Field  Folio1, this.
+	2: The Energy Cycle : NarFusion , Rotations and Revolutions  Folio1,this.
+	3:  Counter Gravity – wip    F2
+	4:  Light : Neither Wave nor Particle	-wip    F3
+	5: Self Assembly and Life  - wip    F4
+C. Specific CURRENT  topics and issues discussed in light of
+ the Gellun Universe model.
+	FOLIO One.  This will start with the ”Macro” issues like those on a 	cosmological scale and just a few smaller ones needed to support the ideas 	I come up with. I’ll get some commentary and adjust or continue as 	appropriate.  If more comes, it will be, an adjust model if so required and 	more Folios as follows-
+	FOLIO Two: Aiming  for Earthly  sized issues as seen thru the Gellun 	model.
+	Folio Three: Atomic and nano scale issues as seen thru the Gellun model.
+	Folio Four: Elements and Life from energy
+	FOLIO N: As required  
+D. Credits, Glossary, Index  and all that.
+
+ SECTION B.
+1: THE GELL:  The playing field.
+MY  FUNDAMENTALS
+Aristotle, 350 BC, as I understand, once discussed the burning of wood. His framework of knowledge then  were the four elements of Water, Earth, Air and Fire.  Since he saw the result  of wood when burnt result in ashes and fire his view was that wood was composed of Fire and Earth and the burning was a decomposition process into fire and Earth. A good start. 
+Similarity :
+I need some foundation points for my model:
+In the interest of simplicity I believe there  are FOUR main core concepts. I'll call the  four CARDINALS  after either main compass points or the guys in the red hats. Time, space, matter and energy. 
+Who could argue that they don’t deal with these four at least once a day?
+These are my primal s , the reference point concepts, my building blocks of the overall, that I propose. I’ll build my model on their foundation. Then I'll use my model to discuss what exists, what the current teaching on items is and we'll see where the chips fly. Every time I get stuck I'll come back to these four, how I've defined each and if my model  works. If not I'll adjust as required. 
+My overall will be later be defined as THE GELLUN. (GellUn or Gellun), 
+(The Gell Universe) and it is based on  those four CARDINALS, got it so far? I'll add a glossary at the end at some point.
+
+You may have to read this paper twice. I may use a term before I explain it well.
+ Again. This paper is a work in progress.
+To start:
+At this point we should agree that these four are solid in their existence or at least perception in some form. Time, Space, Matter and Energy.
+My four  Cardinals  are:
+	gTIME
+	gSPACE
+	gMATTER
+	gENERGY
+You recognize these except for the prefix "g". That’s to indicate these concepts are specifically  Gellun concepts as I'll define them next, not the common Websters  or science text definitions. Nor Einstein’s spacetime.
+TLDR snapshot
+Note: This overall will be very similar to the Static Universe Concept. It's an enhanced Aetherian interpretation. It rejects General and Specific Relativity and thus Spacetime. I include a simple disproof. It also rejects time travel and multiple universes as no psychedelic drugs are involved.
+ It rejects Big Bang and expanding let alone accelerating expanding universe. But it adds a few things including a fifth form of matter and a fifth dimension  as well as  explaining both Dark Matter and Dark energy . It explains what heats my Sun . And finishes with my reason fusion will never work.
+So maybe keep reading.
+The four very specific detail definitions for  Cardinals in my Universe are:
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+gTIME
+A human construct used as a reference for timepoint instances of STATE  of the  other three Cardinals. 
+It moves at constant real speed based on arbitrary Human Measurement units. May have varying irrelevant human perceptions by individuals. 
+Moves forward only. Got it – FORWARD. No time travel, ever!
+A vector, that is linear. So No parallel universe . No beginning ( beyond Human comprehension). No end ( beyond Human comprehension).
+	Like: Where are the starting and ending points on the surface of a sphere?
+-----------------------------------------------------------------------------------------------------------
+gSPACE
+True empty space. Just an infinite  3D grid the defines location in a 3D infinity. Going to have to use Cartesian or polar coordinates from a single  starting reference point. Any point could do. I’ll use an arbitrary point of my choosing. ( it is my universe ; ) (later: I’ll pick an exact spot in London UK)
+Call it the gPOLE.
+That means there's only 1 gPole in my universe. 
+All roads lead to the gPole, or come from the gPole. 
+
+-----------------------------------------------------------------------------------------------------------
+gMATTER
+States of Matter
+The four accepted stages of matter are SOLID, LIQUID, GAS. PLASMA. As  energy is added to matter it changes state. We see this with water. It is Ice below zero centigrade and steam above 100 centigrade.
+PLASMA has been defined as  a super heated fourth stage. It has an even higher energy component and lower mass component. This is also called HOT plasma. But there is also cold Plasma. Those toy plasma globes you can find in the lava lamp aisle are cool to the touch as you draw the miniature lightening to your fingers.  I’m going to split these two plasma into adjacent  but different states.
+So I’ll add another state of MATTER.
+My baby: A “FIFTH” state of Matter. After plasma. It’s after hot plasma, but not hot since  doesn’t have enough  matter.
+ I cal it MEL. Magnetic Electric Liquoid. (my word).
+ Just about zero Mass. But not zero.
+Just about absolute energy but not 100 percent or infinity. In fact it is the turning point between  energy and mass. 
+I contend Matter always has some Energy and Energy always exists thru Matter.
+Yet neither can be converted directly into the other.
+This does violate relativity and I’ll deal with that later. Yup.
+This does not violate Conservation of either mass or energy, it merely states that functionally they both appear in a mix and never alone. 
+
+
+The Mel  has a charge and expands to fill all gSpace. Low in density but huge overall. The mass component totals 95 percent of all mass, leaving just 5 percent for the bobbles (planets stars moons asteroids) that distribute themselves in it.( more)
+There are no vacuums. (more)
+(“Mel” is also a shout out to Melanie Windridge who’s book Aurora about the northern lights help inspire my work)( This will be here till I get a cease and desist from her or her agent)
+
+gENERGY
+NEWTON Next!
+This leads to my second travesty, I’m going to improve on Newton’s first law by stating” There are no objects at rest. Period”. Anywhere. Ever.
+Why?  To prove a little relativity of my own. Everything, unless attached to this gPole point ,  (meaning off Earth ) is moving in distance, spinning or rotating  to everything else. You have  a fixed absolute point to measure from. The gPole. A trig nightmare.  So all mass has some inertia and thats a potential energy.
+It’s enough to know that all mass, in my universe has an energy component. There is no absolute zero energy level. Probably no absolute zero temperature level since most other forms of energy seem to leak heat. 
+ And the adjacent Mel areas would want to flow to equalize gin values.  Just like the water pressures  and temperature of the sea  is affected by a cruise ships passage or  the gulf stream. The former vacuum of space can be mel dynamic. And act like a fluid or gas on earth.
+
+My Model 
+-------------------------------------------------------------------------------------------
+The four  fundamentals , my Cardinals, are represented graphically  in a specific way too.
+				cTime      |      cSpace
+			---------------------|-------------------
+		 		cMatter   |     c Energy
+Diagram 1 ( Imagine a circle around this)
+This image called the GellUn COMPASS. It's meant to kinda look like a compass and will be helpful  in  conceptualizations of the interaction of the   later. My universe has a logo, good start!
+Diagram 2
+Basic Divisions          top
+			TIME   +  SPACE                 4 D
+		---------------------------------------
+The top 2 comprise a grouping I'll call    the gVENUE. This is where stuff happens. Just like theater. It is four dimensional. X,Y, Z,T as usually understood.This is NOT Einstein's Spacetime. Time and Space are independent of each other and fixed in MY Universe. The Gellum. But they both provide a similar framing function. I’ll clear up issues later.
+
+The bottom two are:
+            ----------------------------------------------------
+		MATTER         +      ENERGY                quantify combo as   1 D   a scalar
+
+The MEL as previously explained. (I may repeat myself as I work out kinks)
+So where Einstein combined the top two Cardinals, the Venue into a single unit that functioned together and not independently – his Spacetime concept  I contend he was partially correct in grouping things but wrong in which elements. It is the bottom two Cardinals that functioned together and not independently. 
+ Magnetic Electric Liquoid.  MEL. A substance   of Magnetic Electric Liquoid. (my word).
+Liquoid combines the concepts of liquid and void. 
+
+This material fills gSpace but
+has specific properties not fully  understood. Previously called the Ether or Aether and hastily discarded over a hundred years ago . IMHO:  That’s why nothing works out.
+The substance I call MEL  flows like a fluid to fill gSpace. Infinite. In total this mass of mel is  called THE GEL. Like water is to The Ocean. (Yes. A shout out to the food commonly known as Jello, but probably trademarked)!
+(May the gell be with you!) (another trademark poke) .
+And this universe based on a Gell concept I call the Gell Universe, 
+or The Gell Un or Gellun.  It’s a branding.  
+Not all matter is Mel. The vast Gell  ( Gell or Gel, whatever works for you)  is what the other matter in other states floats in. There are the chunks, clumps and  clouds. Solids liquids and gases. The planets asteroids and stars etc. I’ ll call them the heavy matters. Heavy in comparison.
+In this FIFTH STATE OF MATTER , Mel acts like a kind of liquid LIQUID. A COLLOID. A suspension  like blue dye dripped into clear water It spreads out to fill it’s container.  There are static electric and magnetic forces that accumulate and act on  it defeating its  purely even distribution, but it tries. They vary  and can be measured and mapped at a point in time.  If you don’t believe in static forces you’ve never seen a dust bunny! No one vacuums in this universe!
+And the Gell is so vast that it is not of uniform compression . But it would always like to be. It  has an uneven consistence influenced  by a number of factors. Like a liquid it is always trying to balance itself out. And yet it can never achieve this due to the dynamic nature of the other dynamic occupants of gSpace. Where as fluids have pressure differentials on a local and “global container  basis”. The polarity and charge value is what fluctuates and causes the actions within the total local area Melspace. (my word) and that's why everything  seems to want to stay in their groups but yet the groups stay apart. 
+See  Experiment One,  in the notes where you can demonstrate this in your  kitchen.
+So what we thought was nothing, the vacuum of space, is the engine of the universe, my Gell Universe, the GellUn , at least. It’s a chicken wing story!
+( When I was young chicken wings were trash, now they’re a food theme for franchises) Now you see why I included that Goldfish into.
+Look at the JWST photo again. Think Jello with raisins. 
+ 
+ A FIFTH DIMENSION
+So  : Each identifiable location in the gSpace, now filled with the collective Gell  can be  referenced by  it’s gPole coordinates   and has a Mel unit  with a  net energy value- (Ginn value), something like an expanded Hamiltonian,  that can be added to  or deducted to. Charges build up or reduce(later)  thru time due to the movements of the larger objects The differential values  make for Space WEATHER. 
+So every  single point in this universe,  like a point  in a  cube in your hand could be described by its 3 spacial dimensions. gLatitude, gLongitude and gAltitude, and current time  and  now it’s gN (energy) component. There’s your 5 dimensions as I promised.
+The Ginn unit is a shout out to the late Bob Ginn,  the first engineer I knew. (more later).  
+
+GELL  - IN SUMMARY, so far:
+So like Thomson's plumb pudding with the raisins model for the atom:
+The bowl is gSpace. A bit of  pudding is made of Mel. A thin Matter and heavy Energy mix. All the pudding is collectively known  as the Gell. It has a positive charge.  The raisins are Solid and Gas Matter spaced out due to having  a negative charge. The raisins don’t really want to move around but a little natural yeast inside of each is brewing as time progresses. The raisin are  the galaxies in this analogy.
+The  whole thing is the Gell Universe, aka The GellUn.  Simple. Got it.
+
+My simple disproof of  SPECIAL RELATIVITY
+(Special Relativity begat Spacetime: Spacetime begat Gravity Waves)
+First : How an airfoil works: This was current science developed at the same time.
+This is a similar but different situation that may have helped with confusion.
+Picture a diagram of a wing cross section.
+The top of a wing cross section is attached to the bottom of the wing cross section. Looks like a wedge with rounded edges. They move as one unit.
+ The top  is curved up and bulges out . The bottom is flat. They are joined together at the front and back  at rounded leading and trailing edges. L and  T on your imaginary diagram. 
+Due to the bulge on top the distance, measured by a flexible tape measure
+would be longer from L t o T  on the top than going straight across the bottom.
+Air moves across the wing at the same speed for the whole wing since it is a solid and the faces are attached .The same quantity of air, and thus density,  should be at the point directly in front of the wing above the center line as is below the center line. If the top air gets spread out over the longer distance, as the wing moves, it's density would decrease to less than the density under the wing.
+Making the wing want to rise up. And lift the plane and it’s passengers.
+
+
+Next :
+Newtons first law an object at rest stays at rest unless acted upon by a force.
+So force causes an object to move. No force no movement. More force more movement.
+
+Einsteins Trains.
+Einstein has a man drop an apple from a height.
+Then another guy drops an apple from the same height in a moving train.
+The first guys perception is that the second guys apple went further in the same time because to him it would fall at an angle and by Pythagoras theorem have gone   further. During the same amount of time.
+Sort of like that airfoil model, he says that the  time  is the same but the distance is different so space or  time was bent. Believed there was something called Space Time and it was  bespoke for each viewer.
+Why wrong:
+Einstein makes no allowance for the kinetic energy the moving train and thus moving apple possess before it's dropped. The train was given inertia, the passenger and the apple acquired it by friction - or the apple would shoot to the back of the train when dropped.
+Proof:  drop an apple  into an open boxcar from a stationary ledge and take a high speed photo its trajectory. It would fall vertically with  a land reference and diagonally towards the rear of the train across the box cars length.
+The point is : the second apple had more total energy and thus could go further without any need of a “spacetime”.
+It is a perception issue. If you view the Parthenon in Greece from 1 side straight on it has only 8 columns , from a 90 degree angel 10 columns. If you  added another 45 degrees you might see parts of 15 columns. The real number of columns doesn't change due to your walk. If you want a different column number
+you’d have to expend energy to build destroy or  move columns
+There are usually  two perceptions of reality for ant two drivers in an accident, and one actuality somewhere in between. Three elements.
+There’s always three sides to a coin. If you don’t get this your losing your edge.
+(Bad Joke) 
+So No spacetime. And all the stuff that's dependent on that concept.
+THUNDER.
+SPECIAL RELATIVITY , arrrrg!  GENERAL RELATIVITY. Pew.  GRAVITATIONAL WAVES, ew , BLACK HOLES pew pew, arrrrg.
+But we still have a gravity. I’n still stuck to my chair! For real. There must be another reason.
+I’ll try to see how it could be so in a The Gellun Universe in Folio 2.(wip)
+
+
+
+
+
+-------------------SPECIFIC   CURRENT ISSUES-------------------------------------
+     --- discussed as they relate to the Gellun concept ------
+--------------------------------------------------------------------------------------------------
+Dark Energy:
+Considered to be approximately 70% of the Universe.
+Unexplained movement of celestial bodies suggest its existence.
+Gellun says:
+The Gell collectively is that substance others describe as Dark Energy. Because it is so expansive it has a huge energy component but even more distributed. It can measured at an average of 4  degrees kelvin  in all directions from earth .
+It isn’t hotter because of the reduced but present mass component.
+I think It similar to voltage in static and current electricity. Huge voltage wont hurt you as long as the amps are low. 
+It is the reason the  vacuum of space  isn’t absolute zero.  It has currents and flows as it acts as a fluid and tries to balance out inequalities in Gell pressure caused by the visible mass revolving rotating and transiting.
+----------------------------------------------------------------------------------------------------
+Dark Matter:
+Considered approximation 25% of the Universe.
+The gravitational force they can’t see any mass for that’s making objects they can see move strangely. Again, the same as Dark energy. This is the Gell and its currents building up potential and trying to resolving them with the  other mass elements . Pushing and pulling depending on charge similarities and differences subject to the loacal forces that  force the rotations and revolutions of those objects.
+
+CMB
+The Cosmic Microwave Background.  Appears to occur in 100 percent of the known Universe. And has an uneven mottled appearance under different observation wavelengths. Again this is the mell with differential local gN values  (gell pressure )in the totality of the Gell,  filling my GellUn.
+It is not uniform. As hard mass transits, revolves or rotates it raises gN (Ginn) potentials on a local basis and so the pictures appear spotty. Like any fluid the Gell will try to achieve equilibrium back to whatever the local area and  overall averages are.
+It only has two mechanisms to flow or to discharge arcing thu  a port (later) or causing kinetics of the heavy masses and it does either or both depending on local factors.
+Kinda like a space weather.
+----------------------------------------------------------------------------------
+ASIDE: Gellun and Magellan
+Just a lucky phonetic coincidence.  Ferdinand Magellan was a Portuguese explorer  best known having led the 1519 Spanish expedition to the East Indies. Many space things bear his name  in current time.  I too could smell the sea as I wrote this paper
+
+
+---------------------------------------------------------------------------------------------------------
+An Expanding Universe? Accelerating?
+-------------------------------------------------------------------------------------------------------
+Not my GellUn. There is nothing else for gSpace to expand into. And although the
+Gell swirls around  and has pressure variants it fills that that would be filled. The resulting Gell Currents have no pool edges to lap over.
+I think Redshift is being misinterpreted somehow in this instance.
+Something to do with the wavelengths and space dust size, perhaps at greater distances with additive greater accumulations.  This doesn’t take away from the value of spectroscopy just the interpretation of the results in all circumstances.
+
+The bit "red sky at morning" is a line from an ancient bit of wisdom often repeated by men of the sea.
+Red sky at night, sailors' delight.
+Red sky at morning, sailors take warning(Wiki)
+
+The red sky isn’t expanding is it?
+And thus the acceleration of Expansion of the  universe is also not a GellUm option.
+ASIDE: Art lessons always said to make green you mix yellow and blue. The sun is yellow and the sky is blue, where is the green sky?
+----------------------------------------------------------------------------------------------------
+BIG BANG
+As I understand it the BIG BANG concept came from the idea that if the universe is expanding and therefore  there  had to be a point before and a cause there of. So since I don’t buy the precursor premise I do not have a BIG BANG  in my GellUn. Sorry.
+I have CONSTANT PARTY NOISE instead since, nothing is stationary and there is a lot of activity between mass, energy  and space. (that was a joke)
+-----------------------------------------------------------------
+RUBBER TANKS
+I’ve read, that during the second world war, before the Normandy invasion that  the British constructed a number of fabric and rubber  sculptures  that resembled tanks to decoy and deceive   as to where the invasion would take place.  The first half or so of the 20th century had WW1 and WW2 the cold war. Any advance in technology would have been  an advantage  in weaponry as well.
+I think Relativity’s Spacetime was an idea that became a convenient ruse  to let Americas foes spin their wheels and waste their resources.  Might still be .
+I think the Soviets responded in kind. Called it a Tokamak.
+ In the least a false tech program would hid a huge defense expenditure in an undeclared technology.  I’m not trying to step on anyone's Black Budget here.  I’m not going to publish in any formal journal and I have no credibility anyway. Again, I’ve said this paper is a fiction, I made it all up from common information and basic logic and can’t prove any of it! I’ll be painting now. 
+
+------------------------------------------------------------------------
+EXPERIMENT ONE.
+We see this if we take a large pan of clear water, put it on a piece of white paper   and sprinkle pepper in it. The pepper wants to spread out. Agitate the pan a bit if it’s going too slow for you.
+Sure you get some clumping where pepper bits touched  but it  soon reach all corners of the water’s surface.  If you take a photo and reverse the colors it looks a lot like the JWST photo of  the deep space universe.
+The Gell is not all the mass in my universe just the fifth stage.  Stages  one to four of matter with other mixes of concentrations of energy and matter are suspended in this Jello like substance, the Gell  and are your planets, moons, and  asteroids, meteoroids ,  gas clouds. They too build up charges. But opposite in polarity.
+This is not any vacuum of space. Space now has a filling.
+
+
+
+
+
+PART TWO: 
+The Energy Cycle : NarFusion , Rotations and Revolutions.
+On our little planet if we want to make light with electric energy we need a few things.
+Think  of a flashlight. It has a power source, a light generating source , a switch and some  conductors connecting the parts. It all needs to be in a completed circuit which is what you get if you turn on the switch. Energy flows from the battery along some wires through the closed switch thru the element in the light bulb and back to the battery.  This works aslong as the battery has potential. The battery may be rechargeable.
+Since we have light in the sky . the stars, our sun. We must have a circuit.
+The light never goes out, the earth  just rotates giving night and day, so we don’t need a switch.
+
+The power source
+Being of a Magnetic and Electric nature the Gell can hold a  CHARGE. 
+As the heavy masses transit the mel they function like a Teflon rod through rabbit fur making static electricity. The mel has one polarity and the heavy masses,    in their galactic groupings . building up opposite static charges on each.
+ I’ll declare The Gell has an overall  positive charge. Pure  Protons. 
+Note that a proton is half a hydrogen atom.  Large amounts of hydrogen have been detected in the universe.
+
+And so a large negative charge forms around the heavy masses. Electrons
+I’ll call these area NADS
+In my Gellun Universe,  “Negative charge  Anode Distributions”
+or gNADS . The larger ones push each other apart and end up being galaxy centers. Yes – the real BLACK HOLES (more later)
+
+So the Gell is our broad overall mass cathode It’s all the same charge that’s what spreads it out and keeps it “inflated” in gSpace. It’s like a mist.
+The heavy bits  are  millions of single point anodes. They can’t avoid the omnipresent mel in the Gell cloud and so just avoid each other and spread out.
+Since all the anodes are negative and the same charge, they repel each other. Like people spacing out in an elevator they move to the maximum distributions.
+This, I’ll take the liberty to say, is your second law of thermodynamic. ENTROPY. 
+It’s just disorder from each single  point of view. But overall its just a reordering on a macro scale forming as best as uneven masses lead to uneven charge strengths a lattice of beads in that mist. Like a large Graph but the nodes have variable spacing's and the once blank white paper has variable shadings that determine placement. The edges are not fixed nor drawn.
+The locations  the negative charges of are determined by overall electrostatics and are not fixed exactly. And may shift as field polarities and strengths shift.
+On earth we create alternating current  by interrupting of changing the energy wave guided thru copper wires. Either by the reversal of flow for household current or  by stuttering direct battery current with an interrupter in the automotive electrical systems.  Either way, changes in force fields affect mass items in the area, and are magnified for metallic iron  types of mass.  Solenoids motors transformers  and all that.
+As a total the Gell  acts as a fluid, is compressible has currents and flows and the peaks try to resolve with valleys in a three dimensions.  It can transmit energy by vibration or by induction onto the mass bits inside it. It can induce kinetic effects in the other mass bits , incandescent effects or  fluorescent effects on the gas bits and results in the actions we see reflected in all the  mass which we know as planets moons suns stars  and interstellar gas clouds , and a few other things.
+EQUILIBRIUM : We pause for a discharge:
+Been building up pressure? Am I confusing you? Scream? After a critical point an unbalance  needs to get resolved. That’s what lightning is, that’s what turns static cling into a zapped finger. The automotive spark plug depends on this principle.
+Electrical current can be created by changes in current flow. A change is an acceleration. Any object going in a circle, even at a constant speed is accelerating because of the direction change. Most heavy mass objects in the Gellum are moving in some sort of circular motion. Galaxy s spin  sums and planets revolve and rotate. All but the lone asteroid are non linear. We got us a massive  DC generator here! 
+
+Where is the battery?
+A battery is created when you sandwich two charge mediums around a dielectric.
+A difference in potential builds up between the two mediums and is retained because of the separation by the dialectic, an insulator till a circuit make a load request. The demand is satisfied till the reservoir of charge difference is deplete. It might be refillable.
+The charge that  builds up in the Mel accumulates. I contend Helium (later) is that dielectric. Helium is very stable and only found on earth with radioactive decay (Harvested from the deep drilling of the Oil and Gas industry)  But in space there is lots of helium, around stars, I contend that Helium is a NarFusion Product. (later)
+A capacitor is similar to a battery in construction but only lets a charge pass after a threshold. This raises the charge to a point where some serious work can be done.
+I content, in my Gellun Universe, the local mel /helium dielectric/ Negative anode Areas also act as a huge capacitor with local buildups and fluctuation to its average balance. Resolution is not achieved alone by gellflow among the positively charged gell. 
+
+How does the light get generated?
+When capacity is reached we get an arc.  ZAP. The white light of an arc light . But  not just one discharge . Millions of simultaneous vector discharges from the near Mel into the NADs The larger the   masses, the more  drawing power and  able to arc continuously. 
+Note that luminous bodies  , suns are usually larger than non luminous bodies, planets.
+So it’s a  a shot to the gNADs ( really bad joke)
+Negative charge resolve to positive charge . This is not a quiet canceling out.
+Remember our MIG or TIG welders torch , spreading   welding energy without any gasses yet.  This may be the “Gravity readings of  today's Black Hole. Affecting it’s neighborhood but nothing visible to us, yet. This isn’t where there is a spark gap in the visible spectrum. 
+At these points there is an enormous source of energy  but little mass to express  on. 
+The resolution of positive  and negative is not just energy but an encapsulation  of single protons and single  electrons into   -   ---  --    HYDROGEN Atoms.
+ This recombines the Hydrogenaloms  split into ionic charges by the heavy masses movement thru the Gel earlier  , it  makes  single Hydrogen  atoms  which combine into Hydrogen molecules ( pairs)  and further somehow in the presence of all that energy into Helium. (fours).( I don’t know everything)
+
+The sun and stars are accepted to have both large amounts of Hydrogen and Helium.  At this point I’ll assume all other luminous body elements  which are noted to be minor are further combinations or random asteroid garbage collection and retention.
+Note also, also that Hydrogen is a   diatomic molecule  only found elementally  in pairs, and that all the bits from four hydrogen atoms or two molecules could be rearranged into one Helium molecule.( I consider the neutron a charge collapsed but mass valid Hydrogen atom  - more later)
+Note the binary progression here 0,1, 2, 4 – spooky !
+When the energy hits the gases Hydrogen and Helium we get luminescence.
+Just like our bulbs on earth. 
+The gases  have mass now and all that loose  energy also gives the gNAD kinetic energy  and it start to spin.  Spinning is a planar operation.  It   picks  a main spin axis which probably is aligned to recognize the neighborhood forces around it.  
+
+Odd shaped Nebulae are probably at the stage of working this out
+ These axis  overall are not coordinated  by some master force.  Look again at  THE BIG PICTURE ,  disc shaped galaxies are facing  or turned any way at random. Once a gNAD spins it flattens by centrifugal force  and spits  out glowing clumps of Hydrogen and Helium  and the gNAD become a true Galaxy center. This happens throughout the Gell in millions of places
+These become galaxy centers
+The Gnad has mass and so it has gravity. Big gravity and it still holds on towhat will be  its fledgling Solar system. As gas clumps and more elements  condense they spit out planets and planets will spit out moons.
+ (more Later, I will content the earth spit out our moon. Earth cracked and water got trapped under the crust in the pacific.  Like a boiler explosion it blew the entire crust where the pacific ocean now is out into orbit. Take a look at the Earth without the ocean. Must be recent. Or it would be a more perfect sphere without the water.)
+A circuit path  develops along  the gell between gNADS   and luminous  masses, the stars  with  locations spread out the way service stations are in a city. And they gas glow  continuously  sending out not just  visible light but xray gamma ray and all.  All supplied by the  energy from the galaxy center.   This is a power grid to light all the suns in each galaxy’s  chandelier of stars and  power all the kinetic merry go rounds of the movements, rotations and revolutions  of the masses formed and forming. The masses are pushed to get away yet held to the gNads.
+Spiral arms form due to differentials in mass energy  and time. Each bit of mass itself starts to rotate as it condenses, agreeably on the same plane and rotational direction as its universe. Yet Univese planes are seem random overall.
+
+------------------SPECIFIC   CURRENT ISSUES----------Part  Two---------------------------
+     --- discussed as they relate to the Gellun concept ------
+------------------------------------------------------------------------------------------------------
+PERPETUAL ENERGY MACHINE
+So? This is what makes the Heavy masses kinetic in the first place? To build up the source energy? Are you saying the your Universe is a perpetual energy machine?
+Yes. Universally. 
+If conservation of energy is true and energy converts form it must “recycle”
+Literally somewhere else.  The universe’s light sources are not candles places there once and consumable with a die out date. We have a circuit, a system.
+Or we’d eventually wind down to a motionless dark balanced system.
+
+Conservation of Mass says mass not created or destroyed. I merely break hydrogen, reload it with energy , then reassemble  it.  Something like the Krebs cycle with ADP  and ATP as if my universe were a large metabolism.
+We  haven't created perpetual energy on earth yet because we haven't tapped into the right loop for a supply as we move thru space creating Gell magnetic and electric  fields and charges that add to the Big capacitor in the sky.
+This doesn’t mean our own planet and our sun are  forever, just the Gellun in total.
+The planets and suns  build up  negative  charges too but also build up shells of positive charges, eager to resolve but lacking the triggering effect the centers of galaxies provides. More hydrogen, more helium.
+Like a piece of iron attracted to either the north or south pole of a bar magnet the true neutral of the Galaxy center holds onto its suns . Its in the suns that 
+gasses glow luminously due to the charge imbalances. They send out the magnetic and electric energy to hold and drive the activity of their solid planets and moons and all that spinning and rotating.
+So the reestablishment of Gell charge equilibrium, the discharge of our build up charge in the Gell creates Hydrogen and releases Sunshine .So our sun could be hollow and still work. If there's a hard core it’s all the crap pulled in from space due to the very strong gravitation energies generated. Its like a pool filter.
+
+
+FUSION?
+And Yes. This is contrary to the “FUSION fuels the Sun  myth” that is currently  being experimented with. In Tokomaks.
+My point of energy generation is the making of hydrogen atoms  from singularities of positive charge and negative charge. Ions if you wish although we don’t know of a positive And a negative Hydrogen ion. (check). 
+This makes basic Hydrogen atoms  and a heap of raw energy.
+This process has the enormous weight of  the Gell, the  Mass of the  Universe Mist (70 +20 percent) trying to resolve back to a stable neutral charge state after being polarized by the rude kinetic actions of the minor in total (5 percent) Heavy mass bits.
+My by products are Hydrogen molecules and Helium as further stabilization occurs. Those two conversions may actually cost bits of the massive energy of the initial release.
+My envisioned process doesn’t require massive amounts of energy, it releases massive amounts of energy.
+Current fusion technology ,  using a Tokamak, I believe, sees the energy generating point as the conversion of Hydrogen of some form into Helium and begins with massive amounts of super hot plasma energy. With countering costly containment cooling required to prevent disaster.
+I can see the confusion. Considering  our Sun, they see we  have  Hydrogen and Helium then . Energy.   I see  Energy then Hydrogen and Helium. They don’t consider any Ether  or Gel involvement and consider the Sun a one use device with limited fuel. I see a circuit , a cycle.
+I still think there’s a usable energy source for our use  somewhere here, just need to reconfigure a few things. The Mel may be tap-able.
+My investigations into this I’ll call NarFusion. And a working fusion technology, A future folio.
+
+
+2: COUNTER GRAVITY wip
+In my Universe the are no unipoles so for every attracting force there  is a repulsing force somewhere , kinda like Newtons third law. And I am calling gravity a force and an energy form.
+I propose that in my fictional universe that  our well accepted Gravity has a  sister force yet detected  or undeclared.
+Gravity attracts. So two items attracted to each other should collapse together.  If so our universe would be like a box of marbles  that was tilted. All the marbles would stay right where you put them. No effort to seek an even distribution..
+BARBELLS
+I propose a BARBELL  configuration between a pair of objects of significant mass. Not all mass is effected by the secondary force or we’d all be walking around six inches above the ground. So it depends on absolute mass and  on material composition.
+By barbell I mean they are 2 weights, worth of being called weights, attached by a bar but separated by it as well. The length of the bar is  determined by relative weights (mass)and total combined weight. If the weights were identical you could twirl the combined object around the exact center, if unbalanced you could spin the unit around a barrycenter based on a ratio.
+
+---------------------------------partial credits ---------wip--------------------------------------
+RE: A writing instructor I’d  once had ( with Hollywood credits (in end notes)) once taught that if I was having problems with knowing how to end a  work of fiction .
+Barry Pearson see IMDB   known for Plague (1979), The Life and Times of Edwin Alonzo Boyd (1982) and Ciao Ciao Bang Bang. Arts and Letter club   sessions around 2005 or so
+--------------------------------------------------------
+Melanie Windridge
+Book:  AURORA In search of the Northern Lights
+(sorry about the fusion thing)
+---------------------------------------------------------------------
+A special thanks to : ( and I can actually get teary here)
+William Boettger, math teacher : d 2005 , proverbial  teacher that made a difference.  Grade 11. Think I was  failing his course. But out of the blue offered   a chance to go to computer day at the University of Waterloo. The rest is my history.
+-----------------------------------------------
